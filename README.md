@@ -1,4 +1,4 @@
-# CSS-314-Google-Colab
-Baizhuma Aibek 
-[01-N]
-[05-P]
+# CSS-314_230103120
+Baizhuma Aibek
+CSS - 314 (01-N)
+CSS - 314 (05-P)
